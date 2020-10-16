@@ -25,20 +25,66 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ec377a2-6932-410d-b95b-3cf9f25a9ac6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/github.com/gin-gonic/gin/context.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gin-gonic/gin/context.go" afterDir="false" />
+    <list default="true" id="1ec377a2-6932-410d-b95b-3cf9f25a9ac6" name="Default Changelist" comment="golang基础入门">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day01  flag/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day02  flags/3 高级特性--1选项分组/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day02  flags/3 高级特性--2子命令/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day03 homedir/1 简单示例/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day03 homedir/2 go-homedir使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day04 ini/1 基本使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day04 ini/1 基本使用/my.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day04 ini/2 保存配置/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day04 ini/2 保存配置/my-pretty.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day04 ini/3 分区与结构体字段映射/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day04 ini/3 分区与结构体字段映射/my.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/1 实现一个简单的命令行程序 git/cmd/helpers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/1 实现一个简单的命令行程序 git/cmd/root.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/1 实现一个简单的命令行程序 git/cmd/version.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/1 实现一个简单的命令行程序 git/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/2 一个简单的计算器/cmd/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/2 一个简单的计算器/cmd/divide.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/2 一个简单的计算器/cmd/helper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/2 一个简单的计算器/cmd/minus.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/2 一个简单的计算器/cmd/multiply.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/2 一个简单的计算器/cmd/root.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/2 一个简单的计算器/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day05 cobra/3 脚手架/scaffold/cmd/date.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day06 viper/1 简单使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day06 viper/2 读取配置 支持从io.Reader 读取/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day06 viper/3 结构体赋值/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day06 viper/4 保存配置/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day06 viper/5 监听文件修改/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day07 fsnotify/1 简单使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day08 cast/1 简单使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day09 logrus/1 简单使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day09 logrus/2 重定向输出/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day09 logrus/3 日志格式/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day09 logrus/4 设置钩子/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day09 logrus/4 设置钩子/利用hook将日志发送到redis/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day10 godotenv/1 简单使用/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day10 godotenv/1 简单使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go语言每日一库/day10 godotenv/2 不存入环境变量/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实战/拉勾职位的Go语言爬虫/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/实战/拉勾职位的Go语言爬虫/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/gin-contrib/sse" />
-  </component>
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ioJkiqAeYqIb1NQ0c45onkyTmZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,12 +93,82 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\src\codesuger.org\codesuger.com" />
+      <recent name="D:\GoProjects\src\codesuger.org\codesuger.com\go语言每日一库\day10 godotenv\1 简单使用" />
+      <recent name="D:\GoProjects\src\codesuger.org\codesuger.com\go语言每日一库\day06 viper\1 简单使用" />
+      <recent name="D:\GoProjects\src\codesuger.org\codesuger.com\go语言每日一库\day04 ini\1 基本使用" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\src\codesuger.org\codesuger.com\go语言每日一库\day06 viper\1 简单使用" />
+      <recent name="D:\GoProjects\src\codesuger.org\codesuger.com\go语言每日一库\day02  flags\简单示例1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build codesuger.org/codesuger.com/go语言每日一库/day10 godotenv/2 不存入环境变量">
+    <configuration name="go build codesuger.org/codesuger.com/go语言每日一库/day09 logrus/4 设置钩子" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="codesuger.com" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/go语言每日一库/day09 logrus/4 设置钩子/main.go" />
+      <package value="codesuger.org/codesuger.com/go语言每日一库/day09 logrus/4 设置钩子" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build codesuger.org/codesuger.com/go语言每日一库/day10 godotenv/1 简单使用" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="codesuger.com" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/go语言每日一库/day10 godotenv/1 简单使用/main.go" />
+      <package value="codesuger.org/codesuger.com/go语言每日一库/day10 godotenv/1 简单使用" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build codesuger.org/codesuger.com/go语言每日一库/day10 godotenv/2 不存入环境变量" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="codesuger.com" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/go语言每日一库/day10 godotenv/2 不存入环境变量/main.go" />
+      <package value="codesuger.org/codesuger.com/go语言每日一库/day10 godotenv/2 不存入环境变量" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="codesuger.com" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go语言每日一库/day09 logrus/4 设置钩子/利用hook将日志发送到redis/main.go" />
+      <package value="codesuger.org/codesuger.com" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="codesuger.com" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go语言每日一库/day09 logrus/4 设置钩子/main.go" />
+      <package value="codesuger.org/codesuger.com" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build codesuger.org/codesuger.com/go语言每日一库/day10 godotenv/2 不存入环境变量" />
+        <item itemvalue="Go Build.go build codesuger.org/codesuger.com/go语言每日一库/day10 godotenv/1 简单使用" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build codesuger.org/codesuger.com/go语言每日一库/day09 logrus/4 设置钩子" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +184,60 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="golang基础入门" />
+    <option name="LAST_COMMIT_MESSAGE" value="golang基础入门" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602757201440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602757201440" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1602573807713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602573807713" />
+    <state width="1478" height="218" key="GridCell.Tab.0.bottom" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state width="1478" height="218" key="GridCell.Tab.0.center" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state width="1478" height="218" key="GridCell.Tab.0.left" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state width="1478" height="218" key="GridCell.Tab.0.right" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state width="1478" height="218" key="GridCell.Tab.1.bottom" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state width="1478" height="218" key="GridCell.Tab.1.center" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state width="1478" height="218" key="GridCell.Tab.1.left" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state width="1478" height="218" key="GridCell.Tab.1.right" timestamp="1602758230946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="218" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602758230946" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602573993481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602573993481" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602745229432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602745229432" />
   </component>
 </project>

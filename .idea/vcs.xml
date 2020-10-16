@@ -11,6 +11,7 @@
     <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/context" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/handlers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/henrylee2cn/pholcus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/jessevdk/go-flags" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/leodido/go-urn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-isatty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/skip2/go-qrcode" vcs="Git" />
