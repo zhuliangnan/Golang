@@ -41,7 +41,7 @@ func main() {
 	var names map[string]int
 	fmt.Println(names == nil)
 	fmt.Println(len(names) == 0)
-	names["alice"] = 12
+	//names["alice"] = 12
 	fmt.Println("----------初始化的map---------")
 	sexs := make(map[string]int)
 	fmt.Println(sexs == nil)
